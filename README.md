@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Terraforms, Kubernates, Dockers
 - 💞️ I’m looking to collaborate on all kind of projects in React, Python, PHP, Typescript, CSS, Javascript...
 
-Regards.
+More details gonna appear soon.
